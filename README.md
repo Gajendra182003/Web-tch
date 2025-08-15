@@ -1,2 +1,2 @@
-# Web-tch
+# Web-tech
 Only for frontend end practice
